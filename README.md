@@ -129,7 +129,7 @@ During presentations, coaches provide a random test height. The final cell of th
 
 ---
 
-## Part 2 - Bayesian Probability: Sentiment Analysis on IMDb Movie Reviews
+## Part 2 - Bayesian Probability: Sentiment Analysis on IMDb Movie Reviews. 
 
 **Notebook:** `notebooks/Part2_Bayesian_Probability_IMDb_Reviews.ipynb`  
 **Dataset:** `data/IMDB_Dataset.csv.gz` (50,000 reviews: 25,000 positive, 25,000 negative)  
